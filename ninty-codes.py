@@ -22,6 +22,7 @@ EXAMPLE_CODES = [
     'B0GLFY1H1QR5GGDT',
     'B0K777732YWS7XVF',
     'B0QFT5QX0F2XMF3Q',
+    'B0S0W8RT3QBSRHK9',
     'B0TTY433034MJ8FY',
     'B14WC53G32Y9VWVX',
     'B14CP5QN168XKTXR',
@@ -66,6 +67,8 @@ EXAMPLE_CODES = [
     'C080M7YW8XLRMTXK',
 ]
 
+CHARSET = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+
 def safe2real(code: str):
     """Converts a code with unambiguous characters to the real code"""
     code = code.upper()
@@ -80,7 +83,7 @@ def generateChecksum(base_code):
         raise RuntimeError("Bad argument to checksum")
     # Mystery/bug: Why is this ord('7') in particular? 55, 0o55 and 0x55 are all unrelated to anything in base 33. The check looks like it's trying to do c - 'A', but does the weirdest thing instead.
     cksum = reduce(lambda cksum, c: (cksum + (ord(c) - ord('0') if ord(c) <= ord('9') else ord(c) - ord('7'))) % 33, base_code, 0)
-    return '0123456789ABCDEFGHIJKLMNOPQRSTUVW'[cksum]
+    return CHARSET[cksum]
 
 def validate(code):
     if len(code) != 16: return False
@@ -148,4 +151,10 @@ if __name__ == '__main__':
             parse(s)
     for ct, cc in seen_chars.items():
         cc = sorted(list(cc))
-        print('Found characters in type {} codes: {}'.format(ct, "".join(cc)))
+        print('Found characters in type {} codes: '.format(ct), end='')
+        for c in CHARSET:
+            if c in cc:
+                print(c, end='')
+            else:
+                print('-', end='')
+        print()
