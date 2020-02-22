@@ -93,14 +93,15 @@ def validate(code):
 def parse(code):
     serial = None
     external_validator = None
+    code_type = get_type(code)
     unmangled_code = safe2real(code)
-    if code[0].isnumeric():
+    if code_type == 'NUM':
         serial = int(code[0:8])
         external_validator = int(code[8:])
-    elif code[0] == 'A':
+    elif code_type == '_A_':
         serial = int(unmangled_code[1:8], 33)
         external_validator = int(unmangled_code[8:15], 33)
-    elif code[0] == 'B' or code[0] == 'C':
+    elif code_type == '_B_' or code_type == '_C_':
         serial = int(unmangled_code[1:8], 30)
         external_validator = int(unmangled_code[8:15], 30)
     else:
