@@ -7,9 +7,11 @@ from functools import reduce
 
 # taken from the interwebs, none of these are new
 EXAMPLE_CODES = [
+    '4237082951213129',   # https://cr-cs.tumblr.com/post/153860583013/3ds-store-3ds-redeem-codes
     '5753437561933377',
     '5753437675070492',
 
+    'A0387RMN33YJNGMC',   # https://cr-cs.tumblr.com/post/155573566497/cheap-eshop-codes-3ds-prepaid-card-code-generator-online
     'A039XJDX0WMEHG6W',
     'A03RL0KB2XHHRRBD',
     'A03RL0KC22JL2MEA',
@@ -17,7 +19,10 @@ EXAMPLE_CODES = [
     'A03RL0KE1X8GGMS6',
     'A05A259G2H2PJL5G',
     'A0693YFS0BPM6K2G',
+#     'A071WNTC1BPR5EVU',   # https://www.nintendolife.com/news/2015/01/rumour_code_name_steam_demo_to_be_distributed_via_gamestop_stores
+    'A0775H3G1MYCJW1Q',   # https://www.youtube.com/watch?v=RMsuHPbI04Y
     'A0796BH71Q1DSSYN',
+    'A07K7E3702LYF1NM',   # https://www.youtube.com/watch?v=tIEnTXxSM98
 
     'B0GLFY1H1QR5GGDT',
     'B0K777732YWS7XVF',
