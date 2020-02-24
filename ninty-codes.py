@@ -112,11 +112,11 @@ def safe2real(code: str):
     code = code.replace('Y', 'O')   # O might be confused with 0
     return code
 
-def generateChecksum(base_code):
+def generateChecksum(base_code, base = 30):
     if len(base_code) != 15:
         raise RuntimeError("Bad argument to checksum")
-    # Mystery/bug: Why is this ord('7') in particular? 55, 0o55 and 0x55 are all unrelated to anything in base 33. The check looks like it's trying to do c - 'A', but does the weirdest thing instead.
-    cksum = reduce(lambda cksum, c: (cksum + (ord(c) - ord('0') if ord(c) <= ord('9') else ord(c) - ord('7'))) % 33, base_code, 0)
+    # https://www.reddit.com/r/SwitchHacks/comments/f7psrk/anatomy_of_an_eshop_card_code/fijt5d4/
+    cksum = sum(int(c, base) for c in base_code) % base
     return CHARSET[cksum]
 
 def validate(code):
@@ -124,7 +124,9 @@ def validate(code):
     # Make uppercase if necessary, then change X and Y back to their base 33 equivalents
     unmangled_code = safe2real(code)
     theirs = unmangled_code[15]
-    mine = generateChecksum(unmangled_code[0:15])
+    code_type = get_type(code)
+    base = 33 if code_type == '_A_' else 30
+    mine = generateChecksum(unmangled_code[0:15], base)
     return theirs == mine
 
 def parse(code):
@@ -173,7 +175,7 @@ if __name__ == '__main__':
             seen_chars[code_type] = set()
         for c in s[1:]:
             seen_chars[code_type].add(c)
-        if code_type == '_A_':
+        if code_type != 'NUM':
             valid = validate(s)
             print('{} {}'.format(s, "☑ " if valid else "☒ "), end='')
             if not valid:
