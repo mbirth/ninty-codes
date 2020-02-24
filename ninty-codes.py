@@ -26,7 +26,7 @@ EXAMPLE_CODES = [
 
     'B0GLFY1H1QR5GGDT',
     'B0K777732YWS7XVF',
-    'B0QFT5QX0F2XMF3Q',
+    'B0QFT5QX0F2XNF3Q',   # https://www.koopatv.org/2018/07/nintendo-increase-eshop-card-font-size.html
     'B0S0W8RT3QBSRHK9',
     'B0TTY433034MJ8FY',
     'B14WC53G32Y9VWVX',
@@ -36,7 +36,7 @@ EXAMPLE_CODES = [
     'B14BNFY9464NHGPD',
     'B14BNFYV3F8WCLTL',
     'B14BNFYB3YDKY4Q4',
-    'B14CCRDB5P74VCNR',
+    'B14CCRDB5P74VCNR',   # https://www.reddit.com/r/splatoon/comments/a4pxmz/splatoon_codes_for_free_bought_the_family/
     'B14CCRDC0J4BRJ7T',
     'B14CCRDD4X8L97BL',
     'B14CCRDW2496B1MT',
@@ -50,8 +50,8 @@ EXAMPLE_CODES = [
     'B14CP5QR4Y7BG4QN',
     'B14CP5QS1X46M2L6',
     'B14CP5QT2S17K53T',
-    'B14D8WQ610Q2S26S',
-    'B14D8WQ7113VV6V4',
+    'B14D8WQ610Q2S26S',   # https://www.reddit.com/r/splatoon/comments/9lchtb/got_the_group_online_package_but_only_two_other/
+    'B14D8WQ7113VV5V4',
     'B14D8WQ834BFNP0G',
     'B14D8WQV3Q41N3KH',
     'B14D8WQB45PJ1M7L',
@@ -66,10 +66,11 @@ EXAMPLE_CODES = [
     'C00V1HKDRW7VD14T',
     'C00V1HKFB2XP76V4',
     'C01DHQVVS3THVW6G',
+    'C01DX9D6H4B5FS46',   # https://www.reddit.com/r/Switch/comments/cvm001/europe_splatoon_2_gear_download_code/
     'C01WB9K31B1H3K03',
     'C01WRRQKCJ6YXFM3',
-    'C049GTST9QGLPCSY',
-    'C049GTT0V2K86RKC',   # https://www.reddit.com/r/splatoon/comments/ecc1u4/i_dont_play_splatoon_so_i_thought_i_would_gift/
+    'C049GTST9QGLPCSY',   # https://www.reddit.com/r/splatoon/comments/ecc1u4/i_dont_play_splatoon_so_i_thought_i_would_gift/
+    'C049GTT0V2K86RKC',
     'C049GTT1QTLK1H26',
     'C049GTT277GG78L3',
     'C049GTT302810G4D',
@@ -83,15 +84,16 @@ EXAMPLE_CODES = [
     'C049K4B51R1V17KC',
     'C049K4B6V37X301X',
     'C049K4B7PPP386JS',
-    'C049MJJDSJHYT4WN',
+    'C049MJJDSJHYT4WN',   # https://www.reddit.com/r/splatoon/comments/eyetsx/splatoon_2_codes/
     'C049MJJWDCMSF30C',
     'C049MJJFG50675D2',
     'C049MJJG0PFXR3HQ',
     'C049MJJHT6RTH6CX',
     'C049MJJX1YBTY02W',
     'C049MJJJW85MWP2W',
-    'C04BK55WHPWT517J',
-    'C080M7Y73KC7B37N',
+    'C04BK55WHPWT517J',   # https://www.reddit.com/r/splatoon/comments/eyetsx/splatoon_2_codes/
+    'C07XVGFBSM0VLSJ7',   # https://www.reddit.com/r/splatoon/comments/f69b5z/bonus_gear_code_splatoon_2/
+    'C080M7Y73KC7B37N',   # https://www.reddit.com/r/splatoon/comments/f0uyur/nintendo_gave_me_some_codes_for_in_game_items_but/
     'C080M7Y8JGY35R0P',
     'C080M7Y9YWPX531M',
     'C080M7YV4MM8XG81',
