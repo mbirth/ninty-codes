@@ -103,6 +103,14 @@ EXAMPLE_CODES = [
     'B14BNFY9464NHGPD',
     'B14BNFYV3F8WCLTL',
     'B14BNFYB3YDKY4Q4',
+    'B14BYCFH53NTR7WN',   # https://www.reddit.com/r/Splatoon_2/comments/f0z5wa/please_take_these_online_gear_codes_3_are_already/
+    'B14BYCFX4NGN5Q5X',   # https://www.reddit.com/r/Splatoon_2/comments/f0z5wa/please_take_these_online_gear_codes_3_are_already/
+    'B14BYCFJ15K90K24',   # https://www.reddit.com/r/Splatoon_2/comments/f0z5wa/please_take_these_online_gear_codes_3_are_already/
+    'B14BYCFK1MRGPNDF',   # https://www.reddit.com/r/Splatoon_2/comments/f0z5wa/please_take_these_online_gear_codes_3_are_already/
+    'B14BYCFL4QCRNB0M',   # https://www.reddit.com/r/Splatoon_2/comments/f0z5wa/please_take_these_online_gear_codes_3_are_already/
+    'B14BYCFM3FP98VYW',   # https://www.reddit.com/r/Splatoon_2/comments/f0z5wa/please_take_these_online_gear_codes_3_are_already/
+    'B14BYCFN32MMB11D',   # https://www.reddit.com/r/Splatoon_2/comments/f0z5wa/please_take_these_online_gear_codes_3_are_already/
+    'B14BYCFY20FYHRGN',   # https://www.reddit.com/r/Splatoon_2/comments/f0z5wa/please_take_these_online_gear_codes_3_are_already/
     'B14CCRDB5P74VCNR',   # https://www.reddit.com/r/splatoon/comments/a4pxmz/splatoon_codes_for_free_bought_the_family/
     'B14CCRDC0J4BRJ7T',
     'B14CCRDD4X8L97BL',
@@ -132,10 +140,21 @@ EXAMPLE_CODES = [
     'C00V1HKCJFNTF1QK',
     'C00V1HKDRW7VD14T',
     'C00V1HKFB2XP76V4',
+    'C01D4TFRPV3HM96D',   # https://www.reddit.com/r/Splatoon_2/comments/elrifa/bonus_gear_code/
+    'C01DHLQWW2KW61VL',   # https://www.reddit.com/r/Splatoon_2/comments/euv2qg/free_splatoon_2_bonus_gear_eu_switch_only/
     'C01DHQVVS3THVW6G',
     'C01DX9D6H4B5FS46',   # https://www.reddit.com/r/Switch/comments/cvm001/europe_splatoon_2_gear_download_code/
+    'C01F3T0F43750PJX',   # https://www.reddit.com/r/Splatoon_2/comments/f03jh7/free_code/
     'C01WB9K31B1H3K03',
     'C01WRRQKCJ6YXFM3',
+    'C048T5JNRSXTQ7D8',   # https://www.reddit.com/r/splatoon/comments/eyg3t8/download_codes_for_switch_online_jerseys_and_shoes/
+    'C048T5JYDMN7DYPX',   # https://www.reddit.com/r/splatoon/comments/eyg3t8/download_codes_for_switch_online_jerseys_and_shoes/
+    'C048T5JPQJGTNDC0',   # https://www.reddit.com/r/splatoon/comments/eyg3t8/download_codes_for_switch_online_jerseys_and_shoes/
+    'C048T5JQQ2127K6H',   # https://www.reddit.com/r/splatoon/comments/eyg3t8/download_codes_for_switch_online_jerseys_and_shoes/
+    'C048T5JRD1J3LL57',   # https://www.reddit.com/r/splatoon/comments/eyg3t8/download_codes_for_switch_online_jerseys_and_shoes/
+    'C048T5JS54MJC7NH',   # https://www.reddit.com/r/splatoon/comments/eyg3t8/download_codes_for_switch_online_jerseys_and_shoes/
+    'C048T5JTM31RJHWT',   # https://www.reddit.com/r/splatoon/comments/eyg3t8/download_codes_for_switch_online_jerseys_and_shoes/
+    'C048T5K04KF552R6',   # https://www.reddit.com/r/splatoon/comments/eyg3t8/download_codes_for_switch_online_jerseys_and_shoes/
     'C049GTST9QGLPCSY',   # https://www.reddit.com/r/splatoon/comments/ecc1u4/i_dont_play_splatoon_so_i_thought_i_would_gift/
     'C049GTT0V2K86RKC',
     'C049GTT1QTLK1H26',
@@ -159,13 +178,29 @@ EXAMPLE_CODES = [
     'C049MJJX1YBTY02W',
     'C049MJJJW85MWP2W',
     'C04BK55WHPWT517J',   # https://www.reddit.com/r/splatoon/comments/eyetsx/splatoon_2_codes/
+    'C04BXXY15PG5X99P',   # https://www.reddit.com/r/splatoon/comments/f03jvj/12_month_membership_reward_code/
+    'C04V2P8XRF9353C3',   # https://www.reddit.com/r/Splatoon_2/comments/ex65dx/code_for_jersey_and_shoes/
+    'C04V35TSP5CX5G91',   # https://www.reddit.com/r/splatoon/comments/ex15vg/codes_to_redeem_online_jersey_online_squidkid_v/
+    'C04V35TTJDSKM7F6',   # https://www.reddit.com/r/splatoon/comments/ex15vg/codes_to_redeem_online_jersey_online_squidkid_v/
+    'C04V36002XHQQG5P',   # https://www.reddit.com/r/splatoon/comments/ex15vg/codes_to_redeem_online_jersey_online_squidkid_v/
+    'C04V360107XBQK64',   # https://www.reddit.com/r/splatoon/comments/ex15vg/codes_to_redeem_online_jersey_online_squidkid_v/
+    'C04V36029HD4TXCJ',   # https://www.reddit.com/r/splatoon/comments/ex15vg/codes_to_redeem_online_jersey_online_squidkid_v/
+    'C04V360395K0M09D',   # https://www.reddit.com/r/splatoon/comments/ex15vg/codes_to_redeem_online_jersey_online_squidkid_v/
     'C07XVGFBSM0VLSJ7',   # https://www.reddit.com/r/splatoon/comments/f69b5z/bonus_gear_code_splatoon_2/
+    'C07XXXM5TV129B5H',   # https://www.reddit.com/r/splatoon/comments/f1tyv1/switch_online_gear_code/
     'C080M7Y73KC7B37N',   # https://www.reddit.com/r/splatoon/comments/f0uyur/nintendo_gave_me_some_codes_for_in_game_items_but/
-    'C080M7Y8JGY35R0P',
-    'C080M7Y9YWPX531M',
-    'C080M7YV4MM8XG81',
-    'C080M7YB7M3V2XRN',
-    'C080M7YCDBS7Y13M',
-    'C080M7YD74CPT83Y',
-    'C080M7YW8XLRMTXK',
+    'C080M7Y8JGY35R0P',   # https://www.reddit.com/r/splatoon/comments/f0uyur/nintendo_gave_me_some_codes_for_in_game_items_but/
+    'C080M7Y9YWPX531M',   # https://www.reddit.com/r/splatoon/comments/f0uyur/nintendo_gave_me_some_codes_for_in_game_items_but/
+    'C080M7YV4MM8XG81',   # https://www.reddit.com/r/splatoon/comments/f0uyur/nintendo_gave_me_some_codes_for_in_game_items_but/
+    'C080M7YB7M3V2XRN',   # https://www.reddit.com/r/splatoon/comments/f0uyur/nintendo_gave_me_some_codes_for_in_game_items_but/
+    'C080M7YCDBS7Y13M',   # https://www.reddit.com/r/splatoon/comments/f0uyur/nintendo_gave_me_some_codes_for_in_game_items_but/
+    'C080M7YD74CPT83Y',   # https://www.reddit.com/r/splatoon/comments/f0uyur/nintendo_gave_me_some_codes_for_in_game_items_but/
+    'C080M7YW8XLRMTXK',   # https://www.reddit.com/r/splatoon/comments/f0uyur/nintendo_gave_me_some_codes_for_in_game_items_but/
+    'C080YT5FLM72N0C0',   # https://www.reddit.com/r/splatoon/comments/f3jjko/first_6_people_to_use_these_family_plan_gear/
+    'C080YT5HTWSFW2H4',   # https://www.reddit.com/r/splatoon/comments/f3jjko/first_6_people_to_use_these_family_plan_gear/
+    'C080YT5J9V2F3WMM',   # https://www.reddit.com/r/splatoon/comments/f3jjko/first_6_people_to_use_these_family_plan_gear/
+    'C080YT5LC279T86M',   # https://www.reddit.com/r/splatoon/comments/f3jjko/first_6_people_to_use_these_family_plan_gear/
+    'C080YT5N2X76CCHP',   # https://www.reddit.com/r/splatoon/comments/f3jjko/first_6_people_to_use_these_family_plan_gear/
+    'C080YT5P2LXXWB07',   # https://www.reddit.com/r/splatoon/comments/f3jjko/first_6_people_to_use_these_family_plan_gear/
+    'C0810QHCYC9LQSH3',   # https://www.reddit.com/r/splatoon/comments/f8c7vl/giving_away_download_code_for_online_jersey_and/
 ]
