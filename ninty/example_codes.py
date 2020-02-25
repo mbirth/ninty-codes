@@ -3,27 +3,99 @@
 # taken from the interwebs, none of these are new
 EXAMPLE_CODES = [
     '4237082951213129',   # https://cr-cs.tumblr.com/post/153860583013/3ds-store-3ds-redeem-codes
+    '5275372281203113',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5lxli/
+    '5275372383881841',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5lxli/
+    '5480055412086882',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5lxli/
+    '5481079336642546',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5lxli/
+    '5740584812630100',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5i324/
+    '5747860535680028',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db58wi8/
     '5753437561933377',
     '5753437675070492',
+    '5753437750522088',
+    '5753437863773629',
+    '5753437909648552',
+    '5753438053547916',
+    '5827437042881705',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5i8k9/
+    '5827437666290624',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5i8k9/
+    '5827437724643654',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5i8k9/
+    '5827437803505282',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5i8k9/
 
+    'A02NA2FJ220SXFR8',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5i8k9/
+    'A02NA2FK1DGA2GGY',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5i8k9/
+    'A02NA2FL18V1HXA4',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5i8k9/
+    'A02NA2FM2SSPKM0B',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5i8k9/
+    'A02NA2FY2DNWGX6V',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5i8k9/
+    'A02NAAPQ2ULY38C8',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5i8k9/
+    'A02NYSWN1Y3CHYLD',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5lxli/
+    'A035M91N037BGL98',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5lxli/
     'A0387RMN33YJNGMC',   # https://cr-cs.tumblr.com/post/155573566497/cheap-eshop-codes-3ds-prepaid-card-code-generator-online
+    'A0397LC40GD1MQXU',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db7kv5i/
+    'A039MTFY0NNTF1EJ',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db66f6d/
     'A039XJDX0WMEHG6W',
-    'A03RL0KB2XHHRRBD',
+    'A03HF8R61BRXWJTP',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5i8k9/
+    'A03RL0KB2XHHRRBD',   # https://nintenpedia.com/forum/threads/who-wants-some-free-eshop-game-codes.2592/
     'A03RL0KC22JL2MEA',
     'A03RL0KD0UXF49FK',
     'A03RL0KE1X8GGMS6',
+    'A042V6521QHH4PX3',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db4tgu4/
+    'A04ANFD72TXMNVEN',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db7kv5i/
+    'A04H9M8E2VWC29DK',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db7kv5i/
     'A05A259G2H2PJL5G',
+    'A05PNYJQ03CQ50Q6',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db67wjq/
+    'A05ST3D838CJSGL5',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db4wejy/
+    'A05UWT851G6DYW3G',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db7kv5i/
+    'A05V41FJ2FD8QJLY',
+    'A05V86MC1BY1F76R',
+    'A05VCBT5280QRVQP',
     'A0693YFS0BPM6K2G',
-#     'A071WNTC1BPR5EVU',   # https://www.nintendolife.com/news/2015/01/rumour_code_name_steam_demo_to_be_distributed_via_gamestop_stores
-    'A0775H3G1MYCJW1Q',   # https://www.youtube.com/watch?v=RMsuHPbI04Y
-    'A0796BH71Q1DSSYN',
+    'A06C7EF3159TNEUD',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5i8k9/
+    'A06CKLA41BEQA82N',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db7kv5i/
+    'A06F2G7818QBMETA',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db4zlv1/
+    'A07098H40YJUHFLG',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5llkt/
+    'A070G72T0C54AR30',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5llkt/
+    'A070NSK70WTMWVKU',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5llkt/
+    'A070UR5W097C98B2',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5llkt/
+    'A071ASJN0187YLXC',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db4wejy/
+    'A071HT5V1TDJLJFJ',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db4wejy/
+    'A071WNTC1BPR5EVU',   # https://www.nintendolife.com/news/2015/01/rumour_code_name_steam_demo_to_be_distributed_via_gamestop_stores
+    'A077SHSG1MYCJW1Q',   # https://www.youtube.com/watch?v=RMsuHPbI04Y
+    'A0796BH71Q1DSSYN',   # Flipnote Studio
+    'A079F4K100NVTK26',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db7kv5i/
+    'A07EC61V0PKF3EYH',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5llkt/
+    'A07ECKF91CL751KM',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db7kv5i/
+    'A07EW9BT25H3MV3U',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5i8k9/
+    'A07EW9C02EVV2AEN',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5i8k9/
     'A07K7E3702LYF1NM',   # https://www.youtube.com/watch?v=tIEnTXxSM98
+    'A07T1JLD2P4XHACN',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5llkt/
+    'A081330D0ADLPDJ7',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5llkt/
+    'A081DL7A0VXYCX5D',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5llkt/
+    'A093NUKQ33FF3BGM',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5llkt/
+    'A093PT2R10HVYEQK',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5llkt/
+    'A093V1680SK9VEFK',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5llkt/
+    'A0947KQ324M3DVAW',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5llkt/
+    'A09NMTUC0PGWR5Q2',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5llkt/
+# STRANGE (Z)   'A5Z2L2GEKYEAA97K',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db7kv5i/
+# STRANGE (Z)   'A5Z2L2HNPEJGWYRY',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db7kv5i/
 
-    'B0GLFY1H1QR5GGDT',
-    'B0K777732YWS7XVF',
+    'B0GLFY1H1QR5GGDT',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5llkt/
+# INVALID   'B0HM7BY15FXWLT75',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db7kv5i/
+    'B0J48MW751LVLYL8',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5llkt/
+    'B0J5CDH23J8VNS8S',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5llkt/
+    'B0J5XK4620SXL6P3',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5llkt/
+    'B0K777732YWS7XVF',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db4rplr/
+    'B0L6L3N152972VDW',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/dbbz56x/
+    'B0L75PN918SLN4JP',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/dbbz56x/
+    'B0L7DDGT4D0WYHQS',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/dbbz56x/
+    'B0L85VW8133NQ7QG',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/dbbz56x/
+    'B0L8KLWY538KTWNB',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/dbbz56x/
+    'B0L930XT4HYVDHWV',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/dbbz56x/
+    'B0L954TN3SWMHKMX',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/dbbz56x/
+    'B0MQS7CC3C1MQSFF',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/
     'B0QFT5QX0F2XNF3Q',   # https://www.koopatv.org/2018/07/nintendo-increase-eshop-card-font-size.html
     'B0S0W8RT3QBSRHK9',
     'B0TTY433034MJ8FY',
+    'B0X5JW111BKSGTB5',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db4zlv1/
+    'B0XW95WW1KF0Y31T',   # https://www.reddit.com/r/3dshacks/comments/5i1rhc/eshop_codes_out_of_curiosity/db5llkt/
     'B14WC53G32Y9VWVX',
     'B14BNFY60LBD7KTG',
     'B14BNFY72J7S1T57',
